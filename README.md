@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alelorys
 - 👀 I’m interested in AI, ML and especially Deep Learning! 
-- 🌱 I’m currently learning speech recogintion, text generator and predict expenses. Also I want to learn image reconition and creating picture by using AI algorythm.
+- 🌱 I’m currently working on two projects one for budget managment that uses machine learning to predict budget and second one is a chatbot powered by LLMs.
 - 💞️ I’m looking to collaborate on what I exchanged above.
 - 📫 How to reach me? You can find me on fb, ig and of course LinkedIn as Aleksandra Loryś.
 
